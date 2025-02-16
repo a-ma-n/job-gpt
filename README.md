@@ -1,5 +1,7 @@
 # Gen-AI-With-Deep-Seek-R1
 
+Setup your account, generate API Key here: [https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch]
+
 1. create a virtual environment & check out into it
 
 On Windows:

@@ -7,6 +7,31 @@
   Your browser does not support the video tag.
 </video>
 
+Ollama Setup:
+
+
+On Windows:
+
+https://ollama.com/download/windows
+
+On macOS: (assuimg you have brew https://brew.sh/)
+
+```bash
+brew install ollama
+```
+
+On Linux:
+
+```bash
+curl -fsSL https://ollama.com/install.sh | sh
+```
+
+after installing ollama:
+
+```bash
+ollama serve 
+ollama pull llama3.2:latest
+```
 
 Setup your account, generate API Key here: [https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch]
 

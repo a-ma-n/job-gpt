@@ -2,6 +2,11 @@
 
 ![Thumbnail](Thumbnail.png)
 
+<video width="640" height="360" controls>
+  <source src="jobfind.mp4" type="job/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 Setup your account, generate API Key here: [https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch]
 

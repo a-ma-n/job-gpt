@@ -42,3 +42,5 @@ pip install -r requirements.txt
 ```bash
 streamlit run JobFind.py
 ```
+
+Credits to Krish Naik for this projects inspiration

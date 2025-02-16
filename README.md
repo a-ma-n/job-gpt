@@ -1,4 +1,4 @@
-# Gen-AI-With-Deep-Seek-R1
+# Job Finder
 
 ![Thumbnail](Thumbnail.png)
 

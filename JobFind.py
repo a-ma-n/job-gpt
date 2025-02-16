@@ -32,13 +32,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Inject Google Ads script
-st.markdown("""
-<head>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6649204671941634"
-         crossorigin="anonymous"></script>
-         <head/>
-    """, unsafe_allow_html=True)
+
 
 # Define a session state key for evaluated jobs
 if "evaluated_jobs" not in st.session_state:
